@@ -3,7 +3,7 @@ clear
 clc
 
 % Initiate variables
-epsilon = -0.09;
+epsilon = -1.4;
 pnotax = 5.98;
 ptax = 15.77;
 qavg = 3.085394.*10.^9;
